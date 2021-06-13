@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivacomQAAutomationTask", "VivacomQAAutomationTask\VivacomQAAutomationTask.csproj", "{671DAC71-8AEE-4015-AE63-B759110FBCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671DAC71-8AEE-4015-AE63-B759110FBCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671DAC71-8AEE-4015-AE63-B759110FBCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671DAC71-8AEE-4015-AE63-B759110FBCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671DAC71-8AEE-4015-AE63-B759110FBCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF7B835D-5172-455D-88E2-70E7022F6890}
+	EndGlobalSection
+EndGlobal
